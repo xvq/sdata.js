@@ -1,4 +1,4 @@
-function sdata(json, dataName, callback) {
+function sdata(json, dataName, callback=function(){}) {
 
     var data = JSON.parse(json)
 
