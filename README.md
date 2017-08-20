@@ -28,7 +28,7 @@
 <div sdata="dataname-age"></div>
 <div sdata="dataname-phone"></div>
 ```
-输出结果的代码
+输出结果
 ```html
 <div sdata="dataname-name">张三</div>
 <div sdata="dataname-age">19</div>
@@ -55,7 +55,7 @@
 <div sdata="dataname" attr="html:text,color:color"></div>
 <div sdata="dataname-1" attr="html:text,color:color"></div>
 ```
-输出结果的代码
+输出结果
 ```html
 <div sdata="dataname" attr="html:text,color:color" color="#ffffff">hello</div>
 <div sdata="dataname-1" attr="html:text,color:color" color="#000000">hahaha</div>
@@ -98,7 +98,7 @@ attr的属性：<br/>
   <div sdata="dataname-i-phone"></div>
 </div>
 ```
-输出结果的代码
+输出结果
 ```html
 <div sdata="dataname-0" attr="">
   <div sdata="dataname-0-name">张三</div>
